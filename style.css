@@ -1,0 +1,35 @@
+body {
+    background-color: floralwhite;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cadetblue;
+    font-size: 52px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    padding: 15px;
+    margin: 20px 200px;
+}
+
+li {
+    padding: 10px;
+    margin: 10px;
+    background-color: whitesmoke;
+}
+
+li a {
+    text-decoration: none;
+    color: cadetblue;
+}
+
